@@ -16,12 +16,15 @@
 
 ## Table of Contents
 
-- [Install](#install)
-- [Usage](#usage)
-- [Supported Hash Types](#supported-hash-types)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
-- [License](#license)
+  - [Table of Contents](#table-of-contents)
+  - [Install](#install)
+  - [Usage](#usage)
+      - [rust-multihash](#rust-multihash)
+      - [Using a custom code table](#using-a-custom-code-table)
+  - [Supported Hash Types](#supported-hash-types)
+  - [Maintainers](#maintainers)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Install
 
